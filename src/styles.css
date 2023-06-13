@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-weight: bold;
+}
+.container {
+  background-image: url(src/sky.jpg);
+}
+.row {
+  padding: 20px;
+}
+.city {
+  width: 55%;
+}
+.cityEnter {
+  width: 10%;
+}
+.em-lon {
+  font-size: 80px;
+}
+.london {
+  font-size: 36px;
+  margin: 35px 0 15px 0;
+}
+.temperature {
+  font-size: 36px;
+  margin: 35px 0 15px 0;
+}
+.card {
+  border: none;
+  margin: 15px 0 10px 0;
+  background: transparent;
+}
+button {
+  border: 0;
+}
